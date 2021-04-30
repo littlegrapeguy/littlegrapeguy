@@ -1,10 +1,6 @@
 # 👋 Hello!
 
-> I am littlegrapeguy.
-I like Ginger Beer 🍺.
-And I love emojis 😀😁🤣😃😄😅😆😗🤩.
-
-I usually use HTML and CSS.
-Very occasionally JavaScript (rarely).
-
-**I LOVE MARKDOWN!!!**
+## I am Gautaman.
+I code in HTML and CSS.
+I also love emojis.
+😀😥😡.
