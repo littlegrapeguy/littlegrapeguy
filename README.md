@@ -18,6 +18,6 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
 
 ### other links for you to check out
-- [blog](https://gautaman.com/blog)
-- [website](https://gautaman.com)
-- [projects](https://gautaman.com/projects)
+- [blog](https://gautaman.com/blog/)
+- [website](https://gautaman.com/)
+- [projects](https://projects.gautaman.com/)
