@@ -3,7 +3,7 @@
 
 ### i am littlegrapeguy 🍇
 
- - im currently working on [Scape](https://scape.gautaman.com) which is coming out very soon
+ - im currently working on [Scape](https://scape.gautaman.com)
 
 ### some things i code with
 
