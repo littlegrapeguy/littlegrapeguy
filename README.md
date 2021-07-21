@@ -20,7 +20,7 @@
 ### other links for you to check out
 - [blog](https://gautaman.com/blog/)
 - [website](https://gautaman.com/)
-- [projects](https://projects.gautaman.com/)
+- [projects](https://gautaman.com/projets/)
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cisoxl18snfs2pbrngdaqyv1k&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
