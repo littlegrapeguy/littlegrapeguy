@@ -22,5 +22,5 @@
 - [website](https://gautaman.com/)
 - [projects](https://gautaman.com/projets/)
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cisoxl18snfs2pbrngdaqyv1k&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/847705621934637056
+                            )](https://discord.com/users/847705621934637056)
