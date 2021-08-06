@@ -25,4 +25,4 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/847705621934637056
                             )](https://discord.com/users/847705621934637056)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=littlegrapeguy)](https://github.com/littlegrapeguy/)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=littlegrapeguy&theme=radical&show_icons=true)](https://github.com/littlegrapeguy/)
