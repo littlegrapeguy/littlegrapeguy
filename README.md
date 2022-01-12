@@ -1,7 +1,7 @@
 # hi people!
-go to my website if you wanna see my projects.
+new website!!
 <br />
-https://gautaman.com
+https://g.rmxgrp.dev
 <br />
 also check this one out.
 <br />
